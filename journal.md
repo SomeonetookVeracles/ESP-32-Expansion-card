@@ -25,3 +25,12 @@ I just wired up the main power structure, including decoupling capacitors, level
 Here's a wip 3d model with the ESP-32 module on it, it's gonna be a bit thicker than the standard expansion card, but with the rubber feet it won't impede usage.
 
 <img width="1068" height="572" alt="ESP-32 Devboard" src="https://github.com/user-attachments/assets/689385d6-0c75-41bb-baf8-6d6971138759" />
+
+**Total Time Spent: 3 Hours**
+
+## August 9th
+
+I spent some time redoing the schematic, trying to make it compliant with the DRC, adding a copper ground plane, and adding a different ESP-32 chip for more signal strength.
+<img width="762" height="651" alt="image" src="https://github.com/user-attachments/assets/afb0862b-1145-47ab-a7a7-4a72971e12dc" />
+
+It's mostly done now.
